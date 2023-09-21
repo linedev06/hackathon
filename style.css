@@ -82,7 +82,7 @@ body {
 
     border-radius: 12px;
 
-    margin-top: 20px;
+    margin-top: 38px;
 
 }
 
@@ -166,9 +166,23 @@ img {
 
 .menu {
 
+    
+    
+    .menu-items {
+        display: flex;
+    }
+    
+    
+    
+    align-items: center;
 
+    
 
     width: 100%;
+
+
+
+    padding: 10px 30px; 
 
 
 
@@ -209,9 +223,13 @@ img {
 
 
     font-weight: bolder;
+    
 
 
 
+}
+.logo {
+    margin-right: 700px; /* Espaçamento à esquerda para a imagem */
 }
 
 
@@ -222,7 +240,9 @@ img {
 
     color: #000;
 
+    margin-top: 14px;
 
+    margin-right: 30px;
 
 }
 
@@ -322,6 +342,7 @@ img {
     border: 3px solid black;
     border-radius: 10px;
     padding: 25px;
+    box-shadow: 7px 7px 3px rgb(104, 101, 101);
 }
 
 .baix2 {
@@ -333,6 +354,7 @@ img {
     border: 3px solid black;
     border-radius: 10px;
     padding: 25px;
+    box-shadow: 7px 7px 3px rgb(104, 101, 101);
 }
 
 .baix3 {
@@ -345,20 +367,27 @@ img {
     border-radius: 10px;
     text-align: center;
     padding: 25px;
+    box-shadow: 7px 7px 3px rgb(104, 101, 101);
 }
 
 .roda {
     height: 100px;
+    
 
 
 }
 
 .luz {
     transition: linear all 0.5s;
+
 }
 
 .luz:hover {
-    text-shadow: 0px 0px 12px #2e2d2d;
+    
+    text-shadow: 0px 0px 12px #000000;
 
 
+}
+.foto{
+   scale: 200px;
 }
