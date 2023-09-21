@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&family=Roboto&display=swap');
 
- 
+
 
 * {
 
@@ -8,7 +8,7 @@
 
 }
 
- 
+
 
 body {
 
@@ -18,19 +18,19 @@ body {
 
     margin: 0px;
 
- 
+
 
 }
 
- 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
 
 .container {
 
@@ -56,9 +56,9 @@ body {
 
 }
 
- 
 
- 
+
+
 
 .btn {
 
@@ -70,7 +70,7 @@ body {
 
     display: inline-block;
 
-   
+
 
     background-color: #000;
 
@@ -86,9 +86,9 @@ body {
 
 }
 
- 
 
- 
+
+
 
 form {
 
@@ -96,9 +96,9 @@ form {
 
 }
 
- 
 
- 
+
+
 
 input[type="text"] {
 
@@ -114,7 +114,7 @@ input[type="text"] {
 
 }
 
- 
+
 
 img {
 
@@ -136,7 +136,7 @@ img {
 
 }
 
- 
+
 
 .Mavericks {
 
@@ -144,7 +144,7 @@ img {
 
 }
 
- 
+
 
 .h1 {
 
@@ -160,61 +160,61 @@ img {
 
 }
 
- 
 
- 
+
+
 
 .menu {
 
- 
+
 
     width: 100%;
 
- 
+
 
     top: 0px;
 
- 
+
 
     display: flex;
 
- 
+
 
     flex-direction: row;
 
- 
+
 
     justify-content: center;
 
- 
+
 
     background: #ffffff;
 
- 
+
 
     padding-bottom: 10px;
 
- 
+
 
     position: absolute;
 
- 
+
 
     height: 70px;
 
- 
+
 
     justify-content: space-around;
 
- 
+
 
     font-weight: bolder;
 
- 
+
 
 }
 
- 
+
 
 .menu a {
 
@@ -222,61 +222,61 @@ img {
 
     color: #000;
 
- 
+
 
 }
 
- 
+
 
 #btn-voltar {
 
- 
+
 
     cursor: pointer;
 
 }
 
- 
+
 
 .footer {
 
- 
+
 
     width: 100%;
 
- 
+
 
     top: 900px;
 
- 
+
 
     display: flex;
 
- 
+
 
     flex-direction: row;
 
- 
+
 
     justify-content: center;
 
- 
+
 
     background: #fff;
 
- 
+
 
     padding-bottom: 10px;
 
- 
+
 
     height: 70px;
 
- 
+
 
     justify-content: space-around;
 
- 
+
 
     font-weight: bolder;
 
@@ -284,55 +284,61 @@ img {
 
     margin-top: 27px;
 
- 
+
 
 }
 
- 
 
-.baixo{
+
+.baixo {
 
     display: flex;
 
     flex-direction: column;
 }
-.eye{
+
+.eye {
     margin-left: 45%;
 }
-.borda{
+
+.borda {
     color: #000;
 }
-.just{
+
+.just {
     text-align: justify;
     margin-left: 2%;
     margin-top: 2%;
     margin-right: 2%;
     margin-bottom: 2%;
 }
-.baix1{
+
+.baix1 {
     display: flex;
     flex-direction: column;
-    height: 280px ;
+    height: 280px;
     width: 240px;
     margin-left: 0px;
     border: 3px solid black;
     border-radius: 10px;
     padding: 25px;
 }
-.baix2{
+
+.baix2 {
     display: flex;
     flex-direction: column;
-    height: 280px ;
+    height: 280px;
     width: 240px;
     margin-left: 0px;
     border: 3px solid black;
     border-radius: 10px;
     padding: 25px;
 }
-.baix3{
+
+.baix3 {
     display: flex;
     flex-direction: column;
-    height: 280px ;
+    height: 280px;
     width: 240px;
     margin-left: 0px;
     border: 3px solid black;
@@ -340,12 +346,14 @@ img {
     text-align: center;
     padding: 25px;
 }
-.roda{
+
+.roda {
     height: 100px;
 
 
 }
-.luz{
+
+.luz {
     transition: linear all 0.5s;
 }
 
